@@ -1,2 +1,2 @@
 # Gittest
-Making git useful place 
+Making git useful place :)
